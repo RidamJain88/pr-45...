@@ -11,7 +11,7 @@ var zombies, zombieImg, zombie2Img, zombieGroup;
 
 function preload() {
   playerImg = loadImage("assets/pc.png")
-  zombieImg = loadImage("assets/zombie.png")ss
+  zombieImg = loadImage("assets/zombie.png")
   bgImg = loadImage("assets/bg.jpeg")
   zombie2Img = loadImage("assets/ZOMBIE2.jpg")
   // heart1Img=loadImage("assets/heart_1.png")
